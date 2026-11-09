@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/qos-ch/cal10n/commit/db338cf47ad069d22cc9a0331ae433dfe2024e2a",
       "git:hexsha": "db338cf47ad069d22cc9a0331ae433dfe2024e2a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T23:10:18.207186+00:00"
     },
     {
       "@id": "https://repolex.ai/r/qos-ch/cal10n/commit/59238843c01851b0ebfbb7971f28bf8a8c90470f",
