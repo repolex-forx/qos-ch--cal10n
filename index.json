@@ -1,0 +1,11 @@
+{
+  "org": "qos-ch",
+  "repo": "cal10n",
+  "versions": [
+    {
+      "commit": "db338cf47ad069d22cc9a0331ae433dfe2024e2a",
+      "tag": "",
+      "parsed_at": "2026-11-09T23:10:18.207653+00:00"
+    }
+  ]
+}
